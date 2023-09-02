@@ -1,4 +1,4 @@
-const api = 'https://node-for-mern.onrender.com:3500/api'
+const api = 'https://node-for-mern.onrender.com/api'
 // const api = 'http://localhost:3500/api'
 export const getAllTasks = () => {
   return new Promise((res, rej) => {
